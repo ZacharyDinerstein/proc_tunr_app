@@ -21,7 +21,7 @@ group :assets do
 end
 
 gem 'jquery-rails'
-gem 'rspec-rails'
+gem 'rspec-rails', '>= 8.0.0'
 gem 'capybara'
 
 # To use ActiveModel has_secure_password
